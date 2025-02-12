@@ -1,4 +1,4 @@
-baseURL = 'https://chiharubell.github.io/Charliesplayground/'
-languageCode = 'en-us'
-title = 'Charlie's Playground'
+baseURL = "https://chiharubell.github.io/Charliesplayground/"
+languageCode = "en-us"
+title = "Charlie's Playground"
 theme = "PaperMod"
