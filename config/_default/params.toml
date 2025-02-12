@@ -1,0 +1,3 @@
+[params]
+  homeInfoParams = { Title = "Charlie's Playground", Content = "Welcome to my creative space!" }
+  backgroundImage = "/images/title.png"
