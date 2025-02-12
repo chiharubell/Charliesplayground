@@ -1,3 +1,5 @@
 [params]
   ShowCover = true
   cover = "/images/title.png"
+  customCSS = ["/css/custom.css"]
+
