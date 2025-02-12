@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Charlie&#39;s Playground</title>
-    <link>http://localhost:1313/Charliesplayground/posts/</link>
+    <link>https://chiharubell.github.io/Charliesplayground/posts/</link>
     <description>Recent content in Posts on Charlie&#39;s Playground</description>
     <generator>Hugo -- 0.143.1</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 12 Feb 2025 10:43:28 -0600</lastBuildDate>
-    <atom:link href="http://localhost:1313/Charliesplayground/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://chiharubell.github.io/Charliesplayground/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>http://localhost:1313/Charliesplayground/posts/my-first-post/</link>
+      <link>https://chiharubell.github.io/Charliesplayground/posts/my-first-post/</link>
       <pubDate>Wed, 12 Feb 2025 10:43:28 -0600</pubDate>
-      <guid>http://localhost:1313/Charliesplayground/posts/my-first-post/</guid>
+      <guid>https://chiharubell.github.io/Charliesplayground/posts/my-first-post/</guid>
       <description>&lt;p&gt;こんにちは！&lt;br&gt;
 これが私の最初のブログ投稿です。&lt;br&gt;
 Netlifyにデプロイして、ちゃんと表示されるかテストしています。&lt;/p&gt;
