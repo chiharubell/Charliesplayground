@@ -1,3 +1,5 @@
 [params]
-  homeInfoParams = { Title = "Charlie's Playground", Content = "Welcome to my creative space!" }
-  backgroundImage = "https://charlies-playground.netlify.app/images/title.png"
+homeInfoParams = { Title = "Charlie's Playground", Content = "Welcome to my creative space!" }
+backgroundImage = "https://charlies-playground.netlify.app/images/title.png"
+customCSS = ["/css/custom.css"]
+
